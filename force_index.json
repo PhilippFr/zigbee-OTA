@@ -1,0 +1,12 @@
+[
+  {
+    "fileName": "db15-0203-11003001-z03mmc.zigbee",
+    "fileVersion": 285224961,
+    "fileSize": 131362,
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/DIY/db15-0203-11003001-z03mmc.zigbee",
+    "imageType": 515,
+    "manufacturerCode": 56085,
+    "sha512": "2a7a17f348f6631e10217d689456ddeceaf768e06267a76a93335a8fb0ee57dfda88e84830536eb478977e423d3add9ff0590839b8736e465e216d0d81f474e9",
+    "otaHeaderString": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+  }
+]
